@@ -1,6 +1,6 @@
 # NAME: PRIYA DHARSHNI.S
 # REG NO:24900865
-# EXP-6
+#  EXP-6
 # Series Queues with infinite capacity - Open Jackson Network
 14/12/2024
 ## Aim :
